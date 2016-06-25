@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 *Edit Mode*
 <img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-25-54-3.png?raw=true' title='edit mode/ EditActivity' width='100px' height='200px' alt='edit mode/ EditActivity' />
 *Still editing...*
-<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-26-04-4.png?raw=true' title='edit mode/ EditActivity' width='100px' height='200px' alt='edit mode/ EditActivity' />
+<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-26-04-4.png?raw=true' title='cursor set to end of String' width='100px' height='200px' alt='cursor set to end' />
 *Updated Item*
 <img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-26-20-5.png?raw=true' title='updated Toast' width='100px' height='200px' alt='updated Toast' />
 *Removed Item*
