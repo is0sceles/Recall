@@ -26,7 +26,21 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-15-03-HOME.png?raw=true' title='Walkthrough' width='100px' height='200px' alt='Image Walkthrough' />
+*Home screen*
+<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-15-03-HOME.png?raw=true' title='Walkthrough' width='100px' height='200px' alt='home screen' />
+*Landing page*
+<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-15-03-1.png?raw=true' title='Walkthrough' width='100px' height='200px' alt='ToDo landing screen / MainActivity' />
+*Item selection*
+<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-15-03-2.png?raw=true' title='Walkthrough' width='100px' height='200px' alt='item selection' />
+*Edit Mode*
+<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-15-03-3.png?raw=true' title='Walkthrough' width='100px' height='200px' alt='edit mode/ EditActivity' />
+*Still editing...*
+<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-15-03-4.png?raw=true' title='Walkthrough' width='100px' height='200px' alt='edit mode/ EditActivity' />
+*Updated Item*
+<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-15-03-5.png?raw=true' title='Walkthrough' width='100px' height='200px' alt='updated Toast' />
+*Removed Item*
+<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-15-03-6.png?raw=true' title='Walkthrough' width='100px' height='200px' alt='removed item from position 1' />
+
 
 
 
