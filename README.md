@@ -44,11 +44,11 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-First Android App.
+First Android App. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [MMXVI] [Isosceles]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
