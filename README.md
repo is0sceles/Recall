@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] Toast notifications on each click/ action taken to guide the user
-* [ ] Cursor position
+* [ ] Cursor position set to end of String
 * [ ] Uses dark theme and custom icon
 
 
