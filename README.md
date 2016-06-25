@@ -18,9 +18,7 @@ The following **optional** features are implemented:
 * [ ] Toast notifications on each click/ action taken to guide the user
 * [ ] Uses dark theme and custom icon
 
-The following **additional** features are implemented:
 
-* [ ] Attach SQLite to store data
 
 ## Image Walkthrough 
 
