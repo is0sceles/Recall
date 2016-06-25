@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 * [x] Cursor position set to end of String
 * [x] Uses dark theme and custom icon
 
-The following **additional** features will be implemented:
+The following **additional** feature(s) will be implemented:
 
 * [ ] Save to database
 
