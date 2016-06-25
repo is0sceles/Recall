@@ -49,13 +49,13 @@ First Android App.
 
 ## Learnings
 
-Gradle
-Android Studio
-Explicit intent
-HashSet
-ArrayList
-Android file system
-Start Activity For Result
+* Gradle
+* Android Studio
+* Explicit intent
+* HashSet
+* ArrayList
+* Android file system
+* Start Activity For Result
 
 
 ## License
