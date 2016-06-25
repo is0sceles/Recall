@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/open?id=0B1LHNBvDo8GbVl9mOXVVQmVsdEUScreenshot_2016-06-23-15-15-03-HOME.png' title='Walkthrough' width='40px' height='60px' alt='Image Walkthrough' />
+<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-15-03-HOME.png?raw=true' title='Walkthrough' width='100px' height='200px' alt='Image Walkthrough' />
 
 
 
