@@ -48,7 +48,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-First Android App. 
+ToDo version 0.0  |First Android App. 
 
 ## Learnings
 
