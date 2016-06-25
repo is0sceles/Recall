@@ -47,6 +47,17 @@ Here's a walkthrough of implemented user stories:
 
 First Android App. 
 
+## Learnings
+
+Gradle
+Android Studio
+Explicit intent
+HashSet
+ArrayList
+Android file system
+Start Activity For Result
+
+
 ## License
 
     Copyright [MMXVI] [Isosceles]
