@@ -1,11 +1,6 @@
 # ToDo - is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 
-This app uses two activities to handle listview items (an arrayList of Strings). 
-Submitted by: Wasiff a.
-
-Time spent: ~20 hours spent in total, or there abouts.
-
 
 The following **required** functionality is completed:
 
@@ -24,41 +19,10 @@ The following **additional** feature(s) will be implemented:
 * [ ] Save to database
 
 
-## Image Walkthrough 
-
-Here's a walkthrough of implemented user stories:
-
-*Home screen*
-<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-15-03-HOME.png?raw=true' title='Walkthrough' width='100px' height='200px' alt='home screen' />
-*Landing page*
-<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-25-23-1.png?raw=true' title='ToDo landing screen / MainActivity' width='100px' height='200px' alt='ToDo landing screen / MainActivity' />
-*Item selection*
-<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-25-50-2.png?raw=true' title='item selection' width='100px' height='200px' alt='item selection' />
-*Edit Mode*
-<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-25-54-3.png?raw=true' title='edit mode/ EditActivity' width='100px' height='200px' alt='edit mode/ EditActivity' />
-*Still editing...*
-<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-26-04-4.png?raw=true' title='cursor set to end of String' width='100px' height='200px' alt='cursor set to end' />
-*Updated Item*
-<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-26-20-5.png?raw=true' title='updated Toast' width='100px' height='200px' alt='updated Toast' />
-*Removed Item*
-<img src='https://github.com/is0sceles/ToDo/blob/master/screenshots%20for%20ToDo/Screenshot_2016-06-23-15-26-39-6.png?raw=true' title='removed item from position 1' width='100px' height='200px' alt='removed item from position 1' />
-
-
-
 
 ## Notes
 
 ToDo version 0.0
-
-## Learnings
-
-* Gradle
-* Android Studio
-* Explicit intent
-* HashSet
-* ArrayList
-* Android file system
-* Start Activity For Result
 
 
 ## License
