@@ -1,4 +1,6 @@
-# ToDo - is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+# ToDo - is an android app for basic todo items management. 
+
+# functionality - CRUD.
 
 
 
@@ -16,7 +18,7 @@ The following **optional** features are implemented:
 
 The following **additional** feature(s) will be implemented:
 
-* [ ] Save to database
+* [ ] Save to database --> currently presists to file (.txt) locally.
 
 
 
