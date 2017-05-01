@@ -1,6 +1,6 @@
-# ToDo - is an android app for basic todo items management. 
+# Remember is an android app for basic to-do items management. 
 
-# functionality - CRUD.
+# Functionality - CRUD.
 
 
 
