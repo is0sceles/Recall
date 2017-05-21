@@ -1,4 +1,4 @@
-# Remember is an android app for basic to-do items management. 
+# Recall is an android app for basic to-do items management. You can manage a grocery cart or add the chores that need doing. 
 
 # Functionality - CRUD.
 
